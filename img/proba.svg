@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="#FF0000" height="167" id="svg_1" stroke="#000000" stroke-width="5" width="373" x="135.5" y="192.5"/>
+  <line fill="none" id="svg_2" stroke="#000000" stroke-width="5" x1="95.5" x2="310.5" y1="202.5" y2="52.5"/>
+  <line fill="none" id="svg_3" stroke="#000000" stroke-width="5" x1="95.5" x2="310.5" y1="202.5" y2="52.5"/>
+  <line fill="none" id="svg_5" stroke="#000000" stroke-width="5" x1="272" x2="487" y1="211.5" y2="61.5"/>
+  <line fill="none" id="svg_4" stroke="#000000" stroke-width="5" x1="272" x2="487" y1="211.5" y2="61.5"/>
+  <line fill="none" id="svg_7" stroke="#000000" stroke-width="5" x1="95.5" x2="310.5" y1="202.5" y2="52.5"/>
+  <line fill="none" id="svg_6" stroke="#000000" stroke-width="5" x1="95.5" x2="310.5" y1="202.5" y2="52.5"/>
+  <polygon cx="100.5" cy="52.5" fill="none" id="svg_8" orient="point" point="5" points="100.5,-16.653613226079685 116.75898959881094,30.12142067106776 166.2689944840178,31.130358290709246 126.80759779360712,61.047856683716304 141.14747399702736,108.44644832233061 100.5,80.16144529043187 59.85252600297265,108.44644832233061 74.19240220639288,61.047856683716304 34.73100551598219,31.130358290709253 84.24101040118906,30.121420671067764 100.49999999999999,-16.653613226079685 116.75898959881093,30.121420671067757 " r="69.153613" r2="27.661445" shape="star" stroke="#000000" stroke-width="5" strokeWidth="5" strokecolor="#000000"/>
+  <polygon cx="104.5" cy="51.5" fill="none" id="svg_9" orient="point" point="5" points="104.5,26.157896255002385 110.45828593735018,43.29912295883357 128.6017729033078,43.66885926958274 114.14070916132312,54.63245629216691 119.39571484337546,72.00219260291607 104.5,61.63684149799904 89.60428515662456,72.00219260291607 94.85929083867688,54.63245629216691 80.3982270966922,43.66885926958274 98.54171406264982,43.29912295883357 104.5,26.157896255002385 110.45828593735018,43.29912295883357 " r="25.342104" r2="10.136841" shape="star" stroke="#000000" stroke-width="5" strokeWidth="5" strokecolor="#000000"/>
+  <polygon cx="194.5" cy="127.5" fill="none" id="svg_10" orient="point" point="5" r="0" r2="0" shape="star" strokeWidth="5" strokecolor="#000000"/>
+  <polygon cx="200.5" cy="132.5" fill="none" id="svg_11" orient="point" point="5" r="0" r2="0" shape="star" strokeWidth="5" strokecolor="none"/>
+  <polygon cx="195.5" cy="129.5" fill="none" id="svg_12" orient="point" point="5" r="0" r2="0" shape="star" strokeWidth="5" strokecolor="none"/>
+  <polygon cx="195.5" cy="124.5" fill="none" id="svg_13" orient="point" point="5" r="0" r2="0" shape="star" strokeWidth="5" strokecolor="none"/>
+  <polygon cx="375.5" cy="143.5" fill="none" id="svg_14" orient="point" point="5" r="0" r2="0" shape="star" strokeWidth="5" strokecolor="none"/>
+  <polygon cx="372.5" cy="143.5" fill="none" id="svg_15" orient="point" point="5" points="372.5,142.83333333333334 372.65674273394467,143.28426213483334 373.1340376775301,143.2939886704167 372.75361507101206,143.58240453183333 372.89185683486164,144.03934466291662 372.5,143.76666666666668 372.10814316513836,144.03934466291662 372.24638492898794,143.58240453183333 371.8659623224699,143.2939886704167 372.34325726605533,143.28426213483334 372.5,142.83333333333334 372.65674273394467,143.28426213483334 " r="0.666667" r2="0.266667" shape="star" stroke-width="5" strokeWidth="5" strokecolor="none" transform="translate(373.134 142.833) scale(1 1) translate(-373.134 -142.833)"/>
+  <polygon cx="371.5" cy="143.5" fill="none" id="svg_16" orient="point" point="5" r="0" r2="0" shape="star" strokeWidth="5" strokecolor="none"/>
+  <path d="m100.5,121.5c85,-20 252,205 251.5,204.5c-0.5,-0.5 -408.5,30.5 -408,30c0.5,-0.5 71.5,-214.5 156.5,-234.5z" fill="none" id="svg_17" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/>
+ </g>
+</svg>

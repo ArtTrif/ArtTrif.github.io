@@ -431,7 +431,7 @@ ul {
 
 .section_contacts_item {
     width: 280px;
-    height: 245px;
+    height: 250px;
     border: 3px solid rgb(75, 44, 22);
     border-radius: 70px;
     padding: 15px;
@@ -439,7 +439,7 @@ ul {
 
 .section_contacts_item:hover {
     
-    border: 5px solid rgb(109, 44, 33);
+    border: 4px solid rgb(109, 44, 33);
     
     background-color: rgb(250, 233, 231);
 }
@@ -1774,7 +1774,7 @@ h2.icing_info {
 
     .section_contacts_item {
         width: 100%;
-        height: 130px;
+        height: 145px;
         border: 2px solid rgb(75, 44, 22);
         padding: 10px;
         margin-top: 10px;
